@@ -1332,5 +1332,3 @@ id |company_name                                  |
 143|WOLF                                          |
 144|Xerox Corporation                             |
 145|ZHEJIANG WANFENG AUTO WHEEL CO LTD            |
-
-
